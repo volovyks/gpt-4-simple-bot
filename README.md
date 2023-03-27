@@ -3,8 +3,14 @@
 ## Requirements
 - npm
 - Node
+- git
 
 ## Local setup
+0. Clone the project and open it in terminal
+```bash
+git clone git@github.com:volovyks/gpt-4-simple-bot.git
+cd gpt-4-simple-bot
+```
 1. Install dependencies
 ```bash
 npm install
